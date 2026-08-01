@@ -4,7 +4,7 @@
 
 Autor: Kerson Kleber Espínola Pereira
 ORCID iD: [0000-0001-8556-4195](https://orcid.org/0000-0001-8556-4195)
-DOI: [RESERVADO — inserir após publicação no Zenodo]
+DOI: [10.5281/zenodo.21749459](https://doi.org/10.5281/zenodo.21749459)
 Licença: CC BY-NC-SA 4.0
 
 ---
@@ -41,7 +41,7 @@ Este material é **distribuído gratuitamente**, no espírito de Mateus 10:8 —
 
 ## Como citar
 
-Kerson Kleber Espínola Pereira. *Método V.E.R.B.O.: um caminho simples para estudar e viver a Palavra*. [ano]. DOI: [inserir após publicação].
+Kerson Kleber Espínola Pereira. *Método V.E.R.B.O.: um caminho simples para estudar e viver a Palavra*. 2026. DOI: [10.5281/zenodo.21749459](https://doi.org/10.5281/zenodo.21749459).
 
 ---
 
